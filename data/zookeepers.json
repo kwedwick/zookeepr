@@ -65,6 +65,12 @@
       "age": 30,
       "favoriteAnimal": "Puffin",
       "id": "10"
+    },
+    {
+      "name": "Rianne",
+      "age": 88,
+      "favoriteAnimal": "Cat",
+      "id": "11"
     }
   ]
 }
